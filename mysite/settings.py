@@ -25,7 +25,7 @@ SECRET_KEY = '_jc(xn8*)c%9s0fy-83k*s09s0=iisi51pc+se$-t@m57e#i3v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['shadou.pythonanywhere.com']
 
 
 # Application definition
